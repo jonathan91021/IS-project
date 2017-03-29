@@ -38,3 +38,7 @@ img {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+p {
+   font-size: 40px;
+}
