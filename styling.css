@@ -1,5 +1,9 @@
 span {
    background-color: #ffcc00; /*Golden*/
+   border-bottom: 2px solid;
+   font-family: Raleway, Comic Sans MS, sans-serif;
+   font-size: 40px;
+   margin-top: 0px
 }
 
 .menu-button {
