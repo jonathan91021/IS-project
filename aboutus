@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="aboutus.css" rel="stylesheet"/>
+    <title>About Us</title>
+  </head>
+  <body>
+    <h1>
+      About Project J.A.D.E. ...
+    </h1>
+    <hr/>
+    <p>
+      This is the statement that tells the readers about us
+    </p>
+    <div>
+      Copyright stuff
+    </div>
+  </body>
+</html>
