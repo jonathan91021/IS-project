@@ -2,4 +2,6 @@ div {
   text-align: center;
   background-color: #ccffdd;
   font-size: 30px;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
