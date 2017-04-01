@@ -1,8 +1,11 @@
 div {
   text-align: center;
-  border: 2px solid;
   background-color: #ccffdd;
-  font-size: 30px;
+  font-size: 20px;
   padding-top: 3px;
   padding-bottom: 3px;
+  width: 110%;
+  bottom: 0;
+  position: absolute;
 }
+
