@@ -11,13 +11,9 @@ html, body {
     font-family: comic sans ms, arial, sans serif;
     text-align: center;
     background-color: #ffebcd;
+    border-bottom: 2px dashed;
 }
 
-hr {
-    width: 100%;
-    border: 1px dashed;   
-}
-    
 .content {
     margin-left: 10px;
 }
