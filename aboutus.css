@@ -1,10 +1,11 @@
 div {
   text-align: center;
+  clear: left;
   background-color: #ccffdd;
   font-size: 20px;
   padding-top: 3px;
   padding-bottom: 3px;
-  width: 130%;
+  width: 100%;
   bottom: 0;
   position: absolute;
 }
