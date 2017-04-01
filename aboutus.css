@@ -5,7 +5,24 @@ html, body {
     border: none;
 }
 
-div {
+.header {
+    margin:0px;
+    font-size: 30px;
+    font-family: comic sans ms, arial, sans serif;
+    text-align: center;
+    background-color: #ffebcd;
+}
+
+hr {
+    width: 100%;
+    border: 1px dashed;   
+}
+    
+.content {
+    margin-left: 10px;
+}
+
+.copyright {
     clear: left;
     background: #ccffdd;
     text-align: center;
