@@ -13,6 +13,7 @@ margin-top: 0px
 }
 
 .menu-button {
+padding-left: 10px;
 border-bottom: 2px solid;
 background-color: #ffcc00; /*Golden*/
 font-family: Raleway, Comic Sans MS, sans-serif;
