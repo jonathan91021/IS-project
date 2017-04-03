@@ -13,6 +13,8 @@ margin-top: 0px
 }
 
 .menu-button {
+min-height: 50px;
+max-height: 80px;
 padding-left: 10px;
 border-bottom: 2px solid;
 background-color: #ffcc00; /*Golden*/
@@ -34,6 +36,7 @@ display: inline-block;
 }
 
 .dropdown-content {
+padding: 2px !important;
 display: none;
 position: relative;
 background-color: #f9f9f9;
