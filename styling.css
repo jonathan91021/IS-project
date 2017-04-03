@@ -50,14 +50,31 @@ font-size: 20px;
 display: block;
 }
 
-a {
-color: #000000;
-}
-
-a:hover {
-color: #ffffff;
-}
-
 p {
 font-size: 40px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffcc00;
+    border: 2px solid;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #e88a2c;
 }
