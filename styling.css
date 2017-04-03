@@ -36,7 +36,7 @@ display: inline-block;
 }
 
 .dropdown-content {
-padding: 2px !important;
+padding-left: 2px !important;
 display: none;
 position: relative;
 background-color: #f9f9f9;
@@ -51,6 +51,7 @@ display: block;
 
 .dropdown-content:hover {
 background-color: #cccccc;
+color: green;
 }
 
 a {
