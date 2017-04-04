@@ -47,7 +47,7 @@ font-size: 20px;
 }
 
 .dropdown:hover .dropdown-content {
-display: block;
+display: inline-block;
 }
 
 p {
@@ -62,6 +62,10 @@ ul {
     overflow: hidden;
     background-color: #ffcc00;
     border: 2px solid;
+    display: flex;
+    justify-content:space-between;
+    list-style-type: none;
+    width:auto;
 }
 
 li {
@@ -74,6 +78,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: Comic Sans MS, Veranda
 }
 
 li a:hover {
