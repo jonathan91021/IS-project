@@ -65,9 +65,9 @@ ul {
     display: flex;
     justify-content:space-between;
     list-style-type: none;
-    width:auto;
+    width: 100%;
 }
-
+    
 li {
     float: left;
 }
